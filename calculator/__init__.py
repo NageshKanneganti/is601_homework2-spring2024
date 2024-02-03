@@ -1,4 +1,4 @@
-"""My Caculator Functions"""
+"""My Calculator Functions"""
 
 def add(a,b):
     """This function does addition"""
