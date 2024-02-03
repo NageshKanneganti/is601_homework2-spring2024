@@ -1,7 +1,7 @@
 # Homework 2 Python Setup
 
 ## Objective
-###The purpose of this assignment is to:
+### The purpose of this assignment is to:
 1) Set up a python project
 2) Manage dependencies 
 3) Create a requirements.txt file utilizing pip freeze  
